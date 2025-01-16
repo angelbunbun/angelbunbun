@@ -17,11 +17,16 @@
 - this github is not affiliated with work or uni 
 
 **𝑜𝑡ℎ𝑒𝑟 𝑙𝑖𝑛𝑘𝑠**
-- [orcid](https://orcid.org/0000-0003-1238-4403)
+- [ORCID](https://orcid.org/0000-0003-1238-4403)
 - [research gate](https://www.researchgate.net/profile/Kimberley-Strachan-Regan)
 - [open science framework](https://osf.io/s86gy/)
 - hackthebox: poopsiebutt
 - ctflearn: poopiebutt
-- hackerone osint.angel
+- hackerone: osint.angel
+
+**𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
+- [SAEBR project](https://github.com/angelbunbun/SAEBR)
+- [DIA AI app](https://github.com/angelbunbun/app_development_phd/tree/main)
+
 
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
