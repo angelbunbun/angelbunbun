@@ -14,19 +14,21 @@
 - also includes occasional hobby projects
 - all repositories are a personal initiative driven by interest and curiosity;
 - hence informal usernames etc
-- this github is not affiliated with work or uni 
+- this github is not affiliated with work or uni
+
+  **𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
+- [SAEBR project](https://github.com/angelbunbun/SAEBR)
+- [DIA AI app](https://github.com/angelbunbun/app_development_phd/tree/main)
 
 **𝑜𝑡ℎ𝑒𝑟 𝑙𝑖𝑛𝑘𝑠**
 - [ORCID](https://orcid.org/0000-0003-1238-4403)
 - [research gate](https://www.researchgate.net/profile/Kimberley-Strachan-Regan)
 - [open science framework](https://osf.io/s86gy/)
+
+**𝑓𝑜𝑟 𝑓𝑢𝑛**
 - hackthebox: poopsiebutt
 - ctflearn: poopiebutt
 - hackerone: osint.angel
-
-**𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
-- [SAEBR project](https://github.com/angelbunbun/SAEBR)
-- [DIA AI app](https://github.com/angelbunbun/app_development_phd/tree/main)
 
 
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
