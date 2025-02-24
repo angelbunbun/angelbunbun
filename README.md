@@ -5,7 +5,7 @@
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
 
 **𝑎𝑏𝑜𝑢𝑡 𝑚𝑒**
-- my name is ness; female; she/her; studying phd psych / msc in clinpsych
+- female; she/her; studying phd psych / msc in clinpsych
 - part-time researcher/research assistant at unisq
 - hobbyist & amateur programmer, cybersec/osint and designer 
 
