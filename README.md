@@ -5,12 +5,12 @@
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
 
 **𝑎𝑏𝑜𝑢𝑡 𝑚𝑒**
-- female; studying phd psych / msc in clinpsych
-- part-time researcher/research assistant at unisq
-- hobbyist & amateur programmer, cybersec/osint and designer 
+- Female; studying PhD (psych) / MSc (clinpsych)
+- Part-time researcher/research assistant at Unisq
+- Hobbyist & amateur programmer; cybersec/osint  
 
 **𝑡ℎ𝑖𝑠 𝑔𝑖𝑡ℎ𝑢𝑏**
-- using this space to share projects related to my phd and research
+- Using this space to share projects related to my PhD and research
 - also includes occasional hobby projects
 - all repositories are a personal initiative driven by interest and curiosity
 - this github is not affiliated with work or uni
