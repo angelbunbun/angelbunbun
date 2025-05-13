@@ -7,7 +7,7 @@
 **𝑎𝑏𝑜𝑢𝑡 𝑚𝑒**
 - Female; studying PhD (psych) / MSc (clinpsych)
 - Part-time researcher/research assistant at Unisq
-- Hobbyist & amateur programmer; cybersec/osint  
+- Hobbyist & amateur programmer; cybersec/osint; app development
 
 **𝑡ℎ𝑖𝑠 𝑔𝑖𝑡ℎ𝑢𝑏**
 - Using this space to share projects related to my PhD and research
