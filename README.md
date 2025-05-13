@@ -5,7 +5,7 @@
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
 
 **𝑎𝑏𝑜𝑢𝑡 𝑚𝑒**
-- Female; studying PhD (psych) / MSc (clinpsych)
+- Studying PhD (psych) / MSc (clinpsych)
 - Part-time researcher/research assistant at Unisq
 - Hobbyist & amateur programmer; cybersec/osint; app development
 
