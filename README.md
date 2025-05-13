@@ -21,8 +21,8 @@
 
 **𝑜𝑡ℎ𝑒𝑟 𝑙𝑖𝑛𝑘𝑠**
 - [ORCID](https://orcid.org/0000-0003-1238-4403)
-- [research gate](https://www.researchgate.net/profile/Kimberley-Strachan-Regan)
-- [open science framework](https://osf.io/s86gy/)
+- [Research Gate](https://www.researchgate.net/profile/Kimberley-Strachan-Regan)
+- [Open Science Framework](https://osf.io/s86gy/)
 
 **𝑓𝑜𝑟 𝑓𝑢𝑛**
 - hackthebox: poopsiebutt
