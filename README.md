@@ -16,8 +16,8 @@
 - this github is not affiliated with work or uni
 
 **𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
-- [SAEBR project](https://github.com/angelbunbun/SAEBR)
-- [DIA AI app](https://github.com/angelbunbun/app_development_phd/tree/main)
+- [SAEBRs project](https://github.com/angelbunbun/SAEBR)
+- [PhD - Digital Intervention Tool](https://github.com/angelbunbun/app_development_phd/tree/main)
 
 **𝑜𝑡ℎ𝑒𝑟 𝑙𝑖𝑛𝑘𝑠**
 - [ORCID](https://orcid.org/0000-0003-1238-4403)
