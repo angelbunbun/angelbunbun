@@ -16,6 +16,7 @@
 - this github is not affiliated with work or uni
 
 **𝑐𝑢𝑟𝑟𝑒𝑛𝑡 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠**
+- [PsyPractice AI](https://github.com/angelbunbun/PsyPractice-AI)
 - [SAEBRs project](https://github.com/angelbunbun/SAEBR)
 - [PhD - Digital Intervention Tool](https://github.com/angelbunbun/app_development_phd/tree/main)
 
