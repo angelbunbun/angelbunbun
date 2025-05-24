@@ -5,12 +5,12 @@
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
 
 **𝑎𝑏𝑜𝑢𝑡 𝑚𝑒**
-- Studying PhD (psych) / MSc (clinpsych)
-- Part-time researcher/research assistant at Unisq
-- Hobbyist & amateur programmer; cybersec/osint; app development
+- studying PhD (psych) / MSc (clinpsych)
+- part-time researcher/research assistant at Unisq
+- hobbyist & amateur programmer; AI training (beginner); app development
 
 **𝑡ℎ𝑖𝑠 𝑔𝑖𝑡ℎ𝑢𝑏**
-- Using this space to share projects related to my PhD and research
+- using this space to share projects related to my PhD and research
 - also includes occasional hobby projects
 - all repositories are a personal initiative driven by interest and curiosity
 - this github is not affiliated with work or uni
@@ -24,9 +24,6 @@
 - [ORCID](https://orcid.org/0000-0003-1238-4403)
 - [Research Gate](https://www.researchgate.net/profile/Kimberley-Strachan-Regan)
 - [Open Science Framework](https://osf.io/s86gy/)
-
-**𝑓𝑜𝑟 𝑓𝑢𝑛**
-- hackthebox: poopsiebutt
-- ctflearn: poopiebutt
+  
 
 ︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶
